@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+BMICalculator.iOS in BMICalculator.iOS, no dependencies
+BMICalculator.iOS in BMICalculator.iOS, no dependencies

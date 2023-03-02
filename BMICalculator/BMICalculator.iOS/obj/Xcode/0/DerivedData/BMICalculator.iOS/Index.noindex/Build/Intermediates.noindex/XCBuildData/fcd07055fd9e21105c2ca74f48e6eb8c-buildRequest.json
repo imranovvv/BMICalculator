@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "5914dc2c5ce5bbe2ffa4d80985ab673e4150dd5595cb6f6b1898fbafd1f0964f"
+    }
+  ],
+  "containerPath" : "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/obj/Xcode/0/BMICalculator.iOS.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/obj/Xcode/0/DerivedData/BMICalculator.iOS/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/obj/Xcode/0/DerivedData/BMICalculator.iOS/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/obj/Xcode/0/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/obj/Xcode/0/DerivedData/BMICalculator.iOS/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/obj/Xcode/0/DerivedData/BMICalculator.iOS/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/obj/Xcode/0/DerivedData/BMICalculator.iOS/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/obj/Xcode/0/DerivedData/BMICalculator.iOS/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

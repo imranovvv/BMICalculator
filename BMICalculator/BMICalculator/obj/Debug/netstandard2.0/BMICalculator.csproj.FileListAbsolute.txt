@@ -1,0 +1,14 @@
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/bin/Debug/netstandard2.0/BMICalculator.deps.json
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/bin/Debug/netstandard2.0/BMICalculator.dll
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/bin/Debug/netstandard2.0/ref/BMICalculator.dll
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/bin/Debug/netstandard2.0/BMICalculator.pdb
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.csproj.AssemblyReference.cache
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.AssemblyInfoInputs.cache
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.AssemblyInfo.cs
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.dll
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/ref/BMICalculator.dll
+/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/Debug/netstandard2.0/BMICalculator.pdb
