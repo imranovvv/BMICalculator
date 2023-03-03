@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,7 @@ namespace BMICalculator
 {
     public partial class MainPage : ContentPage
     {
+        string fileName = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "BMIRecord.txt");
         public MainPage()
         {
             InitializeComponent();
@@ -65,6 +67,19 @@ namespace BMICalculator
             outputBmiStatus.BackgroundColor = Color.Transparent;
             outputBmiStatus.TextColor = default;
 
+        }
+        void onDatePickerSelected(object sender, DateChangedEventArgs e)
+        {
+            var selectedDate = e.NewDate.ToString();
+        }
+        void OnSaveRecord(object sender, EventArgs e)
+        {
+            var writerRecord = selectDate.Date.ToString("dd/MM/yyyy") +
+                "\nWeight: " + inputWeight.Text + "kg" +
+                "\nBMI Value: " + outputResult.Text +
+                "\nBMI Status: " + outputBmiStatus.Text +
+                "\n";
+            File.AppendAllText(fileName, writerRecord + Environment.NewLine);
         }
 
 

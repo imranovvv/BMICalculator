@@ -38,10 +38,11 @@
                          IsVisible="true"
                          HorizontalOptions="End"
                          />
-            <Label Text="Choose a date" HorizontalTextAlignment="Start" />
+            <!--<Label Text="Choose a date" HorizontalTextAlignment="Start" />-->
+            <DatePicker x:Name="selectDate" DateSelected="onDatePickerSelected" Format="dd/MM/yyyy"/>
         </FlexLayout>
         <StackLayout HorizontalOptions="FillAndExpand">
-            <Button x:Name="saveButton" Text="Save" VerticalOptions="CenterAndExpand" />
+            <Button x:Name="saveButton" Text="Save" VerticalOptions="CenterAndExpand" Clicked="OnSaveRecord"/>
         </StackLayout>
 
     </StackLayout>

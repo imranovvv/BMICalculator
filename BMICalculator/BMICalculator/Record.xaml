@@ -4,15 +4,16 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="BMICalculator.Record">
     <ContentPage.Content>
-        <StackLayout HorizontalOptions="Fill" >
-        <Label
-           Text="To be added"
-           HorizontalTextAlignment="Center"
-           VerticalTextAlignment="Center"
-         />
+        <ScrollView>
+            <StackLayout HorizontalOptions="Fill" >
+                <Label
+                   x:Name="displayRecord"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"
+                 />
        
-        </StackLayout>
-
+             </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
 
