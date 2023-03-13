@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cYNQiNpjRMsHZ71qYmLU1nhPKy3ZexGkxaIe9MHG+fstCVUUfJoGOrtKwJ2Ygg5JEBPfI4HHarrll8EEqZ+I1w==",
+  "dgSpecHash": "Vb3LnGQTzq+72PqdPw5wUWVEyxchadO1oPK+W9hSkIAPTPBuh+dSU36zBAc/LC3lsm9+Ud5/056ygTd+mARSJg==",
   "success": true,
-  "projectFilePath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
+  "projectFilePath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
   "expectedPackageFiles": [
     "/Users/imranov/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/imranov/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

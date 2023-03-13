@@ -546,11 +546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
+      "projectUniqueName": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
       "projectName": "BMICalculator",
-      "projectPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
+      "projectPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
       "packagesPath": "/Users/imranov/.nuget/packages/",
-      "outputPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/",
+      "outputPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/imranov/.config/NuGet/NuGet.Config"
@@ -602,7 +602,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/Users/imranov/Library/Caches/VisualStudio/17.0/MSBuild/560_3/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/imranov/Library/Caches/VisualStudio/17.0/MSBuild/6999_3/RuntimeIdentifierGraph.json"
       }
     }
   }

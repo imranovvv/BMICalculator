@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>BMICalculator.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
       <DSymName>BMICalculator.iOS.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS</SourceProjectPath>
+      <SourceProjectPath>/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.iOS</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS</SourceProjectPath>
+      <SourceProjectPath>/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.iOS</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>

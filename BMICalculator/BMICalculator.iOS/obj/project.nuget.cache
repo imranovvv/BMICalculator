@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6JaCQBTGhDJBYV+/7VsMamRJ/+AP6qgt3a67HzI3U4pjkef35nhG2EcKBtVy9kc/uVvEt5hUnn4OsMXbwkBMhA==",
+  "dgSpecHash": "dPF/gQez7br/HCDsLY2Vdnblo4F1/WMbe5FCeLlevfgd9xWSRj/PGzQo53eqGoXgV3UIzSuquijxcq+q05T8pA==",
   "success": true,
-  "projectFilePath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.iOS/BMICalculator.iOS.csproj",
+  "projectFilePath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.iOS/BMICalculator.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/imranov/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/imranov/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",

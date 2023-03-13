@@ -3413,11 +3413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj",
+      "projectUniqueName": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj",
       "projectName": "BMICalculator.Android",
-      "projectPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj",
+      "projectPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj",
       "packagesPath": "/Users/imranov/.nuget/packages/",
-      "outputPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.Android/obj/",
+      "outputPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3432,8 +3432,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj": {
-              "projectPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj"
+            "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj": {
+              "projectPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj": {}
+    "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj": {}
   },
   "projects": {
-    "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj": {
+    "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj",
+        "projectUniqueName": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj",
         "projectName": "BMICalculator.Android",
-        "projectPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj",
+        "projectPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.Android/BMICalculator.Android.csproj",
         "packagesPath": "/Users/imranov/.nuget/packages/",
-        "outputPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator.Android/obj/",
+        "outputPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj": {
-                "projectPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj"
+              "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj": {
+                "projectPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj": {
+    "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
+        "projectUniqueName": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
         "projectName": "BMICalculator",
-        "projectPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
+        "projectPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
         "packagesPath": "/Users/imranov/.nuget/packages/",
-        "outputPath": "/Users/imranov/Projects/BMICalculator/BMICalculator/BMICalculator/obj/",
+        "outputPath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/imranov/.config/NuGet/NuGet.Config"
@@ -107,7 +107,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/Users/imranov/Library/Caches/VisualStudio/17.0/MSBuild/560_3/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/imranov/Library/Caches/VisualStudio/17.0/MSBuild/6999_3/RuntimeIdentifierGraph.json"
         }
       }
     }
