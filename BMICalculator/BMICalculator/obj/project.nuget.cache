@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Vb3LnGQTzq+72PqdPw5wUWVEyxchadO1oPK+W9hSkIAPTPBuh+dSU36zBAc/LC3lsm9+Ud5/056ygTd+mARSJg==",
+  "dgSpecHash": "Gw7blCDrR6qMX2KbfhC1UKEW1Qly/AZiVf6sgN2HDcPIjX/KISKaPB3f7ZirQr5BASrCU+qj+5+4Rkb7lysZLQ==",
   "success": true,
   "projectFilePath": "/Users/imranov/Documents/GitHub/BMICalculator/BMICalculator/BMICalculator/BMICalculator.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "/Users/imranov/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/imranov/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/imranov/.nuget/packages/xamarin.essentials/1.7.5/xamarin.essentials.1.7.5.nupkg.sha512",
-    "/Users/imranov/.nuget/packages/xamarin.forms/5.0.0.2545/xamarin.forms.5.0.0.2545.nupkg.sha512"
+    "/Users/imranov/.nuget/packages/xamarin.forms/5.0.0.2578/xamarin.forms.5.0.0.2578.nupkg.sha512"
   ],
   "logs": []
 }
